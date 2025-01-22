@@ -16,6 +16,4 @@ class Solution:
         
         # 最后再返回maps的values，并转化为list格式
         return list(maps.values())
-        
-            
                 
